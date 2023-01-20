@@ -1,0 +1,24 @@
+[33mcommit 8fd7f65532acc9e2b5d4c419615cf42f7a52d662[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 3115eb9 ddd4e7b
+Author: John Doe <john.doe@contoso.com>
+Date:   Thu Jan 5 07:47:23 2023 -0800
+
+    Merge branch 'feature-devops-home-page'
+
+[33mcommit 3115eb95d0fbed52899cac9e9f5a3f2cdeb5ef84[m
+Author: John Doe <john.doe@contoso.com>
+Date:   Thu Jan 5 07:46:51 2023 -0800
+
+    updated welcome page.
+
+[33mcommit ddd4e7b6d37f147c3bee4b43a3b2c326f843e2e8[m
+Author: John Doe <john.doe@contoso.com>
+Date:   Thu Jan 5 07:14:44 2023 -0800
+
+    updated welcome page.
+
+[33mcommit 4556801554c824022356a2277090a797ee401526[m
+Author: John Doe <john.doe@contoso.com>
+Date:   Thu Jan 5 01:10:44 2023 -0800
+
+    commit
